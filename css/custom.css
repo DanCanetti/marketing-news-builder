@@ -1,0 +1,34 @@
+body {
+	background-colour: #fff;
+}
+
+#sidebar-wrapper {
+    width: 275px;
+}
+
+.sidebar-brand {
+	color: #fff;
+	font-size: 21px;
+	font-weight: 600;
+	margin-top: 20px;
+}
+
+.sidebar-brand:first-child {
+	margin-top: 0px;
+}
+
+#page-content-wrapper {
+	padding: 5%;
+}
+
+#get-code {
+	margin-top: 3%;
+}
+
+#copy-code-here {
+	min-height: 500px;
+}
+
+xmp {
+	display: none;
+}
